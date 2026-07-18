@@ -5,7 +5,7 @@
 // Practice 5: SSI
 // Author: Adrián Martín Castellano
 // Email: alu0101547619@ull.edu.es
-// Date: 12/03/2026
+// Date: 12/03/2025
 
 #include <iostream>
 #include <bitset>
